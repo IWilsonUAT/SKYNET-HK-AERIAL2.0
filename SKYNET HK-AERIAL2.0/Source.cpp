@@ -115,5 +115,5 @@ int main()
 	cout << "SKYNET HK-AERIAL Linear found the enemy in " << PingL << " attempts.\n";
 	cout << "SKYNET HK-AERIAL Random found the enemy in " << PingR << " attempts.\n";
 	cout << "SKYNET HK-AERIAL Binary found the enemy in " << PingB << " attempts.\n";
-	return 0;
-}
+	return 0; 
+} 
